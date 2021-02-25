@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728905777347",
+    "project_id": "homeconomy-bb0de",
+    "storage_bucket": "homeconomy-bb0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728905777347:android:c7c0bc92bf585e044d2276",
+        "android_client_info": {
+          "package_name": "com.example.homeconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728905777347-86nqg6jh7kbeioro63cmta2jilf388qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjPpGpydTVirzncRhwv98ZoGBhomBoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728905777347-86nqg6jh7kbeioro63cmta2jilf388qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
